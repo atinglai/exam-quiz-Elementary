@@ -1,0 +1,929 @@
+{
+  "year": 108,
+  "subject": "公民與英文",
+  "code": "0102",
+  "examMinutes": 60,
+  "totalQuestions": 50,
+  "notice": "本試題為單選題，請選出一個正確或最適當的答案，複選作答者，該題不予計分。本科目共50題，每題2分，須用2B鉛筆在試卡上依題號清楚劃記，於本試題上作答者，不予計分。禁止使用電子計算器。",
+  "sections": [
+    {
+      "id": 1,
+      "name": "公民",
+      "type": "single",
+      "from": 1,
+      "to": 35,
+      "pointsEach": 2
+    },
+    {
+      "id": 2,
+      "name": "英文",
+      "type": "single",
+      "from": 36,
+      "to": 50,
+      "pointsEach": 2
+    }
+  ],
+  "questions": [
+    {
+      "no": 1,
+      "section": 1,
+      "type": "single",
+      "category": "社會學",
+      "groupId": null,
+      "passage": null,
+      "stem": "美國心理學家米德（G. Mead）所談到的「我」當中，屬於個人本能的、獨特的自然特性，是主動的、自發創造的部分，稱為什麼？",
+      "options": [
+        "主我",
+        "客我",
+        "本我",
+        "超我"
+      ],
+      "answer": "A",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 2,
+      "section": 1,
+      "type": "single",
+      "category": "文化",
+      "groupId": null,
+      "passage": null,
+      "stem": "德國嘻哈學院（HipHop Academy Hamburg）每年舉辦嘻哈文化免費培訓計畫，鼓勵年輕人透過肢體表達意念，透過上百場活動與社會互動，將青少年街舞結合古典音樂製作舞台劇，讓嘻哈文化成為在地特色。下列敘述何者最能說明此一現象？",
+      "options": [
+        "主流文化是由精緻文化所主導",
+        "官方文化主導流行文化的發展",
+        "精緻文化轉變為流行文化符號",
+        "邊緣文化結合精緻文化的創新"
+      ],
+      "answer": "D",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 3,
+      "section": 1,
+      "type": "single",
+      "category": "公民參與",
+      "groupId": null,
+      "passage": null,
+      "stem": "托育政策催生聯盟針對少子化問題，向政府提出托育三隻箭：包括加碼托育補助、建立褓姆遴選制、推廣公共褓姆。下列關於「托育政策催生聯盟」的相關敘述，何者正確？",
+      "options": [
+        "透過倡議以發揮輿論的力量，有助於社會立法",
+        "屬自主性的活動，參與者擁有豐沛的政治力",
+        "活動須有來自於第二部門的經濟力才得以運作",
+        "表達對政府施政不滿，展現由上而下的社會力"
+      ],
+      "answer": "A",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 4,
+      "section": 1,
+      "type": "single",
+      "category": "心理學",
+      "groupId": null,
+      "passage": null,
+      "stem": "據報載：日本一名 7 歲男童隨父母到山上遊玩，父母為處罰不聽話的孩子，把他獨留在野熊棲息地的路邊，男童躲避至避難小屋，並堅信父母會回來找他，最後在搜救人員連日搜索後總算獲救。依心理學家安斯渥（Mary Ainsworth）對依附型態的分類，上述男童與家人的依附關係，應屬於下列何種類型？",
+      "options": [
+        "安全型",
+        "逃避型",
+        "混亂型",
+        "焦慮矛盾型"
+      ],
+      "answer": "A",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 5,
+      "section": 1,
+      "type": "single",
+      "category": "心理學",
+      "groupId": null,
+      "passage": null,
+      "stem": "艾瑞克森（E.Erikson）提出「心理社會發展階段」，是自我發展與成長的重要理論。下列有關該理論的敘述，何者正確？",
+      "options": [
+        "不同發展階段中，「父母親」始終扮演關鍵重要他人角色",
+        "各階段皆有其發展任務，完成自我實現是該理論的最後階段",
+        "若某一階段遭遇發展障礙，將無法進行下一個階段的發展",
+        "青少年期偏差行為的出現，可能因自我認同不順利所導致"
+      ],
+      "answer": "D",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 6,
+      "section": 1,
+      "type": "single",
+      "category": "文化",
+      "groupId": null,
+      "passage": null,
+      "stem": "豆腐乳是具有華人特色的食物，但不少外國人品嘗形容其「噁心、恐怖」，其實豆腐乳與歐洲飲食文化中常見的起士同屬麴菌的發酵食物，上述外國人對豆腐乳負面評價的說法，凸顯下列何種觀點？",
+      "options": [
+        "文明進化論",
+        "文化相對論",
+        "多元文化主義",
+        "我族中心主義"
+      ],
+      "answer": "D",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 7,
+      "section": 1,
+      "type": "single",
+      "category": "政府組織",
+      "groupId": null,
+      "passage": null,
+      "stem": "某男警員因為蓄長髮被免職，某政府機關曾發函其服務的機關，認免職處分已違反性別工作平等法。該政府機關最可能為下列何者？",
+      "options": [
+        "立法院",
+        "勞動部",
+        "監察院",
+        "司法院"
+      ],
+      "answer": "B",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 8,
+      "section": 1,
+      "type": "single",
+      "category": "倫理與正義",
+      "groupId": null,
+      "passage": null,
+      "stem": "司法院釋字第 472 號解釋：「國家應推行全民健康保險，…有關強制納保、繳納保費，係基於社會互助、危險分攤及公共利益之考量，符合憲法推行全民健康保險之意旨；…有關加徵滯納金之規定，則係促使投保單位或被保險人履行其繳納保費義務之必要手段。」若僅根據上述大法官解釋的內容判斷，較符合下列何者的精神？",
+      "options": [
+        "效益論",
+        "正義論",
+        "理性自利",
+        "社群主義"
+      ],
+      "answer": "D",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 9,
+      "section": 1,
+      "type": "single",
+      "category": "人權",
+      "groupId": null,
+      "passage": null,
+      "stem": "人權的概念在不同的歷史階段有著不同的意義與發展，人們在討論廢除死刑的議題時，主要是受到下列何種人權文件的影響？",
+      "options": [
+        "法國大革命的人權宣言",
+        "英國 1689 年的權利法案",
+        "美國憲法修正案第 2 條",
+        "聯合國公民與政治權利公約"
+      ],
+      "answer": "D",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 10,
+      "section": 1,
+      "type": "single",
+      "category": "政府體制",
+      "groupId": null,
+      "passage": null,
+      "stem": "下列關於內閣制的敘述，何者正確？",
+      "options": [
+        "內閣制中的總理對外代表國家，有維繫國家認同與地位安定的作用",
+        "國會議員選舉後出現聯合政府，能增加人事穩定性及責任確定性",
+        "實權內閣能夠控制國會多數席位，可有效執行國會所制定的法律",
+        "內閣與國會若產生意見上衝突，總理可以透過覆議否決權解決之"
+      ],
+      "answer": "C",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 11,
+      "section": 1,
+      "type": "single",
+      "category": "民主理論",
+      "groupId": null,
+      "passage": null,
+      "stem": "願景工作坊（scenario workshop）是由丹麥所發展出來的公民參與模式，此種參與模式通常會邀請 15 至 30 位的利害關係人，面對面共同討論公共議題，透過交互對話的過程，發展對未來的願景想像，並提出相對應的行動方案。關於上述願景工作坊的運作方式，最符合下列何種民主理論的理念？",
+      "options": [
+        "古典民主理論",
+        "經驗民主理論",
+        "多元民主理論",
+        "審議民主理論"
+      ],
+      "answer": "D",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 12,
+      "section": 1,
+      "type": "single",
+      "category": "行政法",
+      "groupId": null,
+      "passage": null,
+      "stem": "每逢連續假期，交通部國道高速公路局會呼籲駕駛，避免尖峰時段開上國道。交通部國道高速公路局的作為，屬於下列何者？",
+      "options": [
+        "行政指導",
+        "行政契約",
+        "行政命令",
+        "行政處分"
+      ],
+      "answer": "A",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 13,
+      "section": 1,
+      "type": "single",
+      "category": "地方制度",
+      "groupId": null,
+      "passage": null,
+      "stem": "居住在新北市的賴先生，日前收到新店區公所來電，提醒應儘快帶入學前幼兒至健康服務中心接種疫苗。下列關於「新店區公所」的敘述，何者正確？",
+      "options": [
+        "為地方行政機關",
+        "受區民代表監督",
+        "區長有連任限制",
+        "為最低層級的地方自治單位"
+      ],
+      "answer": "A",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 14,
+      "section": 1,
+      "type": "single",
+      "category": "選舉制度",
+      "groupId": null,
+      "passage": null,
+      "stem": "某國國會選舉採取混合制，區域議員席次 100 席，採單一選區多數決制產生；政黨比例代表席次 100 席，下表為該國採取並立制計算的國會選舉結果及席次分配表，針對該國國會選舉的相關敘述，何者正確？\n\n政黨／區域席次／政黨得票比例／不分區席次／總席次\n甲／45／20%／20／65\n乙／35／40%／40／75\n丙／15／30%／30／45\n丁／5／10%／10／15",
+      "options": [
+        "該國政黨政治型態為兩黨制",
+        "該國依並立制計算總席次，較聯立制有利於小黨",
+        "如該國調整為以聯立制計算席次，當選總席次可能會超過應選席次",
+        "該國以並立制計算與聯立制計算席次，產生的國會最大黨可能會不相同"
+      ],
+      "answer": "C",
+      "answerSource": "ANS",
+      "note": "表格由文字抽取還原為「欄位以／分隔」。"
+    },
+    {
+      "no": 15,
+      "section": 1,
+      "type": "single",
+      "category": "公民投票",
+      "groupId": null,
+      "passage": null,
+      "stem": "我國現行的公民投票因門檻偏高，過去數次全國性公投無法通過；民間團體與政黨紛紛提出由原本的「雙二一制」改採「簡單多數」，降低提案與連署的過關門檻之難度。依上所述判斷，其所指過關門檻應是下列何者？①投票人數達投票權人總數二分之一以上 ②投票人數中有效投票數超過二分之一同意 ③提案人數應達最近一次總統選舉選舉人總數千分之五以上 ④連署人數應達最近一次總統選舉選舉人總數百分之五以上",
+      "options": [
+        "①②",
+        "②③",
+        "③④",
+        "①④"
+      ],
+      "answer": "ALL",
+      "answerSource": "MOD",
+      "note": "更正答案：一律給分（ANS 原為 A）。"
+    },
+    {
+      "no": 16,
+      "section": 1,
+      "type": "single",
+      "category": "地方制度",
+      "groupId": null,
+      "passage": null,
+      "stem": "下列那些地方屬於地方制度法規定之自治團體？①臺中市南屯區 ②桃園市觀音區 ③新竹縣尖石鄉 ④苗栗縣南庄鄉 ⑤高雄市那瑪夏區",
+      "options": [
+        "①②③",
+        "③④⑤",
+        "②③④",
+        "①②⑤"
+      ],
+      "answer": "B",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 17,
+      "section": 1,
+      "type": "single",
+      "category": "公民社會",
+      "groupId": null,
+      "passage": null,
+      "stem": "在某市立圖書館擔任館員的小可，除了參加員工組成的「野營社」外，還常利用閒暇擔任「家扶中心」志工，義務幫弱勢家庭小朋友講故事和課輔，也會陪媽媽逛百貨公司。下列針對上文的分析敘述，何者正確？",
+      "options": [
+        "小可工作的機構屬第一部門",
+        "野營社是屬民間的營利團體",
+        "家扶中心不可以有營利行為",
+        "百貨公司屬非營利性的組織"
+      ],
+      "answer": "A",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 18,
+      "section": 1,
+      "type": "single",
+      "category": "國籍法",
+      "groupId": null,
+      "passage": null,
+      "stem": "2015 年 10 月，中華航空一架由桃園飛往美國洛杉磯的班機，在飛行至美國領空但尚未降落前，一名具有我國國籍的婦人便已在機上產下一名女嬰，依我國與美國國籍法的相關規定，下列有關文中女嬰國籍的相關敘述，何者正確？",
+      "options": [
+        "無論該女嬰在何處出生，都可以取得中華民國國籍",
+        "中華航空為我國領土延伸，故女嬰不能取得美國國籍",
+        "中華航空已飛行至美國領空，故女嬰無法取得中華民國國籍",
+        "女嬰在飛行途中出生，難判斷國籍，可能變成無國籍人士"
+      ],
+      "answer": "A",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 19,
+      "section": 1,
+      "type": "single",
+      "category": "民法",
+      "groupId": null,
+      "passage": null,
+      "stem": "阿明與阿嬌結婚多年，育有一雙兒女，阿嬌過世後，妹妹阿芳經常探視姊夫阿明與外甥，漸漸與阿明日久生情，兩人萌生結婚之意。下列針對「阿明與阿芳是否具有姻親關係、兩人是否可以結婚」的敘述，何者正確？",
+      "options": [
+        "阿明與阿芳已無姻親關係，可以結婚",
+        "阿明與阿芳仍具姻親關係，不可結婚",
+        "阿明與阿芳雖具姻親關係，可以結婚",
+        "阿明與阿芳曾具姻親關係，不可結婚"
+      ],
+      "answer": "C",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 20,
+      "section": 1,
+      "type": "single",
+      "category": "民法",
+      "groupId": null,
+      "passage": null,
+      "stem": "報載：「臺南市某量販店店長，因陳姓顧客時常到店裡買酒，但酒後又經常在店裡喧嘩鬧事，或隨意要求退換貨品，因此店長下令拒賣酒品給陳姓顧客，陳姓顧客因此向公平交易委員會投訴…」。若依我國法令來看，下列敘述何者正確？",
+      "options": [
+        "酒類屬民生必需品，為「強制締約」事項，店家不得拒絕販售",
+        "縱使顧客隨意要求退貨，但該店仍應遵守「猶豫期」之規定，配合退貨",
+        "店家可決定是否要與特定顧客交易，屬於契約自由",
+        "店家須有法定事由，始可拒絕服務消費者"
+      ],
+      "answer": "C",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 21,
+      "section": 1,
+      "type": "single",
+      "category": "刑法",
+      "groupId": null,
+      "passage": null,
+      "stem": "刑法中對於刑法的種類包含主刑與從刑，依據現行刑法，下列何者屬於從刑？",
+      "options": [
+        "褫奪公權",
+        "沒收",
+        "拘役",
+        "罰金"
+      ],
+      "answer": "A",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 22,
+      "section": 1,
+      "type": "single",
+      "category": "憲法",
+      "groupId": null,
+      "passage": null,
+      "stem": "國家給予犯罪被害人刑事補償是基於憲法保障人民何種權益而有的制度？",
+      "options": [
+        "平等權",
+        "自由權",
+        "受益權",
+        "參政權"
+      ],
+      "answer": "C",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 23,
+      "section": 1,
+      "type": "single",
+      "category": "立法程序",
+      "groupId": null,
+      "passage": null,
+      "stem": "依據相關法令規定，下列關於法律制定與修正程序之敘述，何者正確？",
+      "options": [
+        "除政府機關，立法委員及民間團體也能提出法律案",
+        "提案後應送程序委員會排議程，提報院會朗讀標題",
+        "二讀會後，議案若仍有爭議，則交由黨團進行協商",
+        "法律案、預算案經三讀會後，即由立法院公布施行"
+      ],
+      "answer": "B",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 24,
+      "section": 1,
+      "type": "single",
+      "category": "刑事訴訟",
+      "groupId": null,
+      "passage": null,
+      "stem": "刑事訴訟過程中，強調偵查機關應持搜索票才能進行搜索，若偵查機關違法搜索，則得到的證據，以及藉此證據尋獲的其他證據，都不能用來證明被告有罪。依上所述判斷，主要說明下列何者法理原則？",
+      "options": [
+        "偵查不公開原則",
+        "毒樹果實理論",
+        "無罪推定原則",
+        "禁止恣意原則"
+      ],
+      "answer": "B",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 25,
+      "section": 1,
+      "type": "single",
+      "category": "行政法",
+      "groupId": null,
+      "passage": null,
+      "stem": "阿財經國家考試、實習及格後取得律師證書，此證書的核發屬於下列何種行政行為？",
+      "options": [
+        "行政處分",
+        "行政契約",
+        "行政計畫",
+        "行政指導"
+      ],
+      "answer": "A",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 26,
+      "section": 1,
+      "type": "single",
+      "category": "經濟",
+      "groupId": null,
+      "passage": null,
+      "stem": "我國政府於 2014 年起施行 12 年國民教育政策，將 9 年國教延長至 12 年。關於教育支出屬於政府支出中的那一類？",
+      "options": [
+        "投資性支出",
+        "消費性支出",
+        "移轉性支出",
+        "債務性支出"
+      ],
+      "answer": "B",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 27,
+      "section": 1,
+      "type": "single",
+      "category": "刑法",
+      "groupId": null,
+      "passage": null,
+      "stem": "老師教完犯罪行為的構成要件後，同學紛紛表示自己的看法。若依刑法及相關法律之規定判斷，下列何者說法是錯誤的？",
+      "options": [
+        "甲對他人造成傷害，如不是出於故意或過失，無須負刑責",
+        "乙把潛入家裡的竊盜者，抓到後毆打致死，仍構成犯罪",
+        "15 歲的丙因涉世未深，毆打霸凌同學只須記大過，不須負刑責",
+        "修訂刑法加重處罰酒駕者，但修法前之酒駕者無法以此法重罰，符合罪刑法定原則"
+      ],
+      "answer": "C",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 28,
+      "section": 1,
+      "type": "single",
+      "category": "經濟",
+      "groupId": null,
+      "passage": null,
+      "stem": "某實驗研究指出，PC 塑膠瓶盛裝熱飲，可能會干擾人體荷爾蒙平衡，造成肥胖、糖尿病等疾病。因此我國政府透過立法強制規範製造廠商，必須在相關產品標示材質和耐熱溫度等資訊。依上所述判斷，政府強制商品須標示的作法，是為解決下述何種問題？",
+      "options": [
+        "供需不均衡",
+        "公共財悲歌",
+        "資訊不對稱",
+        "財產權不明"
+      ],
+      "answer": "C",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 29,
+      "section": 1,
+      "type": "single",
+      "category": "經濟",
+      "groupId": null,
+      "passage": null,
+      "stem": "在外匯需求不變的情形下，何種因素會使得我國的匯率下跌？",
+      "options": [
+        "外國的經濟景氣衰退",
+        "我國利率高於外國利率",
+        "我國的物價水準上升",
+        "外國限制我國貨品輸入"
+      ],
+      "answer": "B",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 30,
+      "section": 1,
+      "type": "single",
+      "category": "經濟",
+      "groupId": null,
+      "passage": null,
+      "stem": "近年來空氣品質的細懸浮微粒（PM2.5）指標常出現紫爆的警示，民眾對於口罩的需求增加，若此時工廠也增加生產口罩。依上所述判斷，在其他條件不變的情況下，口罩市場的變動情形應為下列何者？",
+      "options": [
+        "均衡價格上漲，均衡數量增加",
+        "均衡價格下降，均衡數量減少",
+        "均衡價格不確定，均衡數量增加",
+        "均衡價格上漲，均衡數量不確定"
+      ],
+      "answer": "C",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 31,
+      "section": 1,
+      "type": "single",
+      "category": "經濟",
+      "groupId": null,
+      "passage": null,
+      "stem": "下表是四個國家的消費者物價指數，若都以 2013 年為基期，則 2015 年時那一國的物價膨脹率最低？\n\n國別／2013 年／2014 年／2015 年\n甲國／100／125／155\n乙國／100／160／200\n丙國／100／175／229\n丁國／100／110／143",
+      "options": [
+        "甲國",
+        "乙國",
+        "丙國",
+        "丁國"
+      ],
+      "answer": "A",
+      "answerSource": "ANS",
+      "note": "表格由文字抽取還原為「欄位以／分隔」。"
+    },
+    {
+      "no": 32,
+      "section": 1,
+      "type": "single",
+      "category": "經濟",
+      "groupId": null,
+      "passage": null,
+      "stem": "若以農業產品數量為橫軸，工業產品數量為縱軸，在其他條件不變的情形下，工人罷工可能造成「生產可能曲線」如何變動？",
+      "options": [
+        "整條生產可能曲線往外移動",
+        "整條生產可能曲線往內移動",
+        "生產組合點沿著原來的生產可能曲線往右移動",
+        "生產組合點沿著原來的生產可能曲線往左移動"
+      ],
+      "answer": "B",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 33,
+      "section": 1,
+      "type": "single",
+      "category": "經濟",
+      "groupId": null,
+      "passage": null,
+      "stem": "高雄市政府與高雄捷運公司合作，於捷運站設置「ARM 自動資源回收機」（Automatic Recycling Machine）。民眾將可回收之鐵鋁罐及寶特瓶容器投入自動回收機，每一支可立即在一卡通上儲值一元。從經濟學的角度判斷，下列何者為高雄市政府推動此舉的主要目的？",
+      "options": [
+        "使資訊公開與透明以降低交易成本",
+        "透過使用者的付費使外部性內部化",
+        "以補貼來增加民眾資源回收的誘因",
+        "以市場的機能克服政府失靈的困境"
+      ],
+      "answer": "C",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 34,
+      "section": 1,
+      "type": "single",
+      "category": "智慧財產",
+      "groupId": null,
+      "passage": null,
+      "stem": "網路部落客在社群媒體上發表他的創作繪圖，媒體未經同意即轉載於電視節目中，雖然節目播映時有打出「翻攝自網路」的字樣，但網路部落客仍憤而對該媒體提告。依相關法令來看，網路部落客應是認為該媒體之作法侵害其何項權利？",
+      "options": [
+        "著作權",
+        "商標權",
+        "專利權",
+        "隱私權"
+      ],
+      "answer": "A",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 35,
+      "section": 1,
+      "type": "single",
+      "category": "經濟",
+      "groupId": null,
+      "passage": null,
+      "stem": "由於寒害及連續大雨，導致蓮霧減產，在其他條件不變下，下列敘述何者正確？",
+      "options": [
+        "蓮霧的均衡價格上升",
+        "蓮霧供給減少，並導致其需求降低",
+        "因奇貨可居，消費者對蓮霧的需求增加",
+        "蓮霧的價格上漲，導致其供給增加"
+      ],
+      "answer": "A",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 36,
+      "section": 2,
+      "type": "single",
+      "category": "詞彙",
+      "groupId": null,
+      "passage": null,
+      "stem": "Nowadays a lot of young people ____ TV programs via cellphones.",
+      "options": [
+        "attach",
+        "receive",
+        "afford",
+        "relieve"
+      ],
+      "answer": "B",
+      "answerSource": "ANS",
+      "note": "原文空格於文字抽取中缺漏，以 ____ 標示。"
+    },
+    {
+      "no": 37,
+      "section": 2,
+      "type": "single",
+      "category": "詞彙",
+      "groupId": null,
+      "passage": null,
+      "stem": "It is considered the basis of decent etiquette to ____ eye contact when speaking to others.",
+      "options": [
+        "deliver",
+        "maintain",
+        "remain",
+        "promote"
+      ],
+      "answer": "B",
+      "answerSource": "ANS",
+      "note": "原文空格於文字抽取中缺漏，以 ____ 標示。"
+    },
+    {
+      "no": 38,
+      "section": 2,
+      "type": "single",
+      "category": "詞彙",
+      "groupId": null,
+      "passage": null,
+      "stem": "While people shop in Toronto, it is generally not a custom to ____ for a lower price.",
+      "options": [
+        "bargain",
+        "purchase",
+        "cheat",
+        "trade"
+      ],
+      "answer": "A",
+      "answerSource": "ANS",
+      "note": "原文空格於文字抽取中缺漏，以 ____ 標示。"
+    },
+    {
+      "no": 39,
+      "section": 2,
+      "type": "single",
+      "category": "詞彙",
+      "groupId": null,
+      "passage": null,
+      "stem": "The teacher ____ the students of bringing their own lunch for the next day's field trip.",
+      "options": [
+        "recalled",
+        "reminded",
+        "reviewed",
+        "returned"
+      ],
+      "answer": "B",
+      "answerSource": "ANS",
+      "note": "原文空格於文字抽取中缺漏，以 ____ 標示。"
+    },
+    {
+      "no": 40,
+      "section": 2,
+      "type": "single",
+      "category": "文法",
+      "groupId": null,
+      "passage": null,
+      "stem": "Amy ____ the scholarship because of her outstanding academic performance over the years.",
+      "options": [
+        "awards",
+        "awarded",
+        "was awarded",
+        "is to award"
+      ],
+      "answer": "C",
+      "answerSource": "ANS",
+      "note": "原文空格於文字抽取中缺漏，以 ____ 標示。"
+    },
+    {
+      "no": 41,
+      "section": 2,
+      "type": "single",
+      "category": "克漏字",
+      "groupId": "g41",
+      "passage": "Christmas is full of old traditions, like having a turkey feast. But how did this begin？ First turkeys ( 41 ) into Britain in 1526. ( 42 ) this time, people used to eat geese and even peacocks for Christmas meals. Henry VIII, King of England, was the first person to eat turkey on Christmas, but it wasn't until the 1950s that the turkey became a ( 43 ) popular choice than the goose. Cows and chickens were not eaten for Christmas because people needed milk and eggs. People would have turkey as it was something different and they could also ( 44 ) their cows and chickens. The good thing about this tradition is that turkeys are big ( 45 ) to feed the whole family. Today, 87% of people believe that Christmas would not be the same without a traditional roast turkey.",
+      "stem": "請依文章選出第 41 題空格（41）最適當的答案。",
+      "options": [
+        "are brought",
+        "were brought",
+        "brought",
+        "were bringing"
+      ],
+      "answer": "B",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 42,
+      "section": 2,
+      "type": "single",
+      "category": "克漏字",
+      "groupId": "g41",
+      "passage": "Christmas is full of old traditions, like having a turkey feast. But how did this begin？ First turkeys ( 41 ) into Britain in 1526. ( 42 ) this time, people used to eat geese and even peacocks for Christmas meals. Henry VIII, King of England, was the first person to eat turkey on Christmas, but it wasn't until the 1950s that the turkey became a ( 43 ) popular choice than the goose. Cows and chickens were not eaten for Christmas because people needed milk and eggs. People would have turkey as it was something different and they could also ( 44 ) their cows and chickens. The good thing about this tradition is that turkeys are big ( 45 ) to feed the whole family. Today, 87% of people believe that Christmas would not be the same without a traditional roast turkey.",
+      "stem": "請依文章選出第 42 題空格（42）最適當的答案。",
+      "options": [
+        "Before",
+        "After",
+        "When",
+        "While"
+      ],
+      "answer": "A",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 43,
+      "section": 2,
+      "type": "single",
+      "category": "克漏字",
+      "groupId": "g41",
+      "passage": "Christmas is full of old traditions, like having a turkey feast. But how did this begin？ First turkeys ( 41 ) into Britain in 1526. ( 42 ) this time, people used to eat geese and even peacocks for Christmas meals. Henry VIII, King of England, was the first person to eat turkey on Christmas, but it wasn't until the 1950s that the turkey became a ( 43 ) popular choice than the goose. Cows and chickens were not eaten for Christmas because people needed milk and eggs. People would have turkey as it was something different and they could also ( 44 ) their cows and chickens. The good thing about this tradition is that turkeys are big ( 45 ) to feed the whole family. Today, 87% of people believe that Christmas would not be the same without a traditional roast turkey.",
+      "stem": "請依文章選出第 43 題空格（43）最適當的答案。",
+      "options": [
+        "better",
+        "more",
+        "less",
+        "least"
+      ],
+      "answer": "B",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 44,
+      "section": 2,
+      "type": "single",
+      "category": "克漏字",
+      "groupId": "g41",
+      "passage": "Christmas is full of old traditions, like having a turkey feast. But how did this begin？ First turkeys ( 41 ) into Britain in 1526. ( 42 ) this time, people used to eat geese and even peacocks for Christmas meals. Henry VIII, King of England, was the first person to eat turkey on Christmas, but it wasn't until the 1950s that the turkey became a ( 43 ) popular choice than the goose. Cows and chickens were not eaten for Christmas because people needed milk and eggs. People would have turkey as it was something different and they could also ( 44 ) their cows and chickens. The good thing about this tradition is that turkeys are big ( 45 ) to feed the whole family. Today, 87% of people believe that Christmas would not be the same without a traditional roast turkey.",
+      "stem": "請依文章選出第 44 題空格（44）最適當的答案。",
+      "options": [
+        "bake",
+        "take",
+        "leave",
+        "save"
+      ],
+      "answer": "D",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 45,
+      "section": 2,
+      "type": "single",
+      "category": "克漏字",
+      "groupId": "g41",
+      "passage": "Christmas is full of old traditions, like having a turkey feast. But how did this begin？ First turkeys ( 41 ) into Britain in 1526. ( 42 ) this time, people used to eat geese and even peacocks for Christmas meals. Henry VIII, King of England, was the first person to eat turkey on Christmas, but it wasn't until the 1950s that the turkey became a ( 43 ) popular choice than the goose. Cows and chickens were not eaten for Christmas because people needed milk and eggs. People would have turkey as it was something different and they could also ( 44 ) their cows and chickens. The good thing about this tradition is that turkeys are big ( 45 ) to feed the whole family. Today, 87% of people believe that Christmas would not be the same without a traditional roast turkey.",
+      "stem": "請依文章選出第 45 題空格（45）最適當的答案。",
+      "options": [
+        "too",
+        "least",
+        "enough",
+        "as"
+      ],
+      "answer": "C",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 46,
+      "section": 2,
+      "type": "single",
+      "category": "閱讀測驗",
+      "groupId": "g46",
+      "passage": "Lagom is a new lifestyle that comes out of Sweden into our homes and our lives in the hope of helping us become healthy and live a sustainable life. The Swedish word is defined as “not too much, and not too little—just right.” This ethos of moderation has a great impact on Swedish people, who believe there should be a balance in everything they do, from working hours to how many slices of cake they eat, from how much sugar to take in one coffee to the portion sizes of dinner. Now people all over the world are interested in this living philosophy. Over the past six months, the BBC reports that search engine Google has seen a steady increase in the number of searches for the term Lagom and in the last three months, the word has been tweeted over 13,500 times.\n\nMy Swedish friend told me “asking a Swede about lagom is like asking a fish what water is. It’s part of our way of life. There’s an inner voice saying, ‘Don’t be too talkative, but don’t be too quiet or shy. Don’t build the biggest house in town and buy luxurious stuff, but don’t be poor.’”\n\nLagom has inspired several companies to manufacture skin collections, clothing, and furniture based on this notion of making life easier, more enjoyable and inexpensive. Swedish furniture store IKEA, for example, has created a project called “Live Lagom” to teach people how to reduce waste, save water, and live a healthier life. The famous H&M also sells Lagom around the world. Everybody can afford to buy their products, which are functional, stylish, and nice, but not too nice. Sam and Elliott Stocks, from England, published the lifestyle magazine Lagom. “Although neither of us are Swedes, we admire Swedish culture,” says Elliott. “The philosophy of Lagom is beautifully simple; it encourages everything in moderation.”",
+      "stem": "What is the best title for this passage？",
+      "options": [
+        "An Urgent Global Issue.",
+        "A Beautiful Life Journey.",
+        "A New Trend to Keep Up With.",
+        "An Ancient Culture to Be Preserved."
+      ],
+      "answer": "C",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 47,
+      "section": 2,
+      "type": "single",
+      "category": "閱讀測驗",
+      "groupId": "g46",
+      "passage": "Lagom is a new lifestyle that comes out of Sweden into our homes and our lives in the hope of helping us become healthy and live a sustainable life. The Swedish word is defined as “not too much, and not too little—just right.” This ethos of moderation has a great impact on Swedish people, who believe there should be a balance in everything they do, from working hours to how many slices of cake they eat, from how much sugar to take in one coffee to the portion sizes of dinner. Now people all over the world are interested in this living philosophy. Over the past six months, the BBC reports that search engine Google has seen a steady increase in the number of searches for the term Lagom and in the last three months, the word has been tweeted over 13,500 times.\n\nMy Swedish friend told me “asking a Swede about lagom is like asking a fish what water is. It’s part of our way of life. There’s an inner voice saying, ‘Don’t be too talkative, but don’t be too quiet or shy. Don’t build the biggest house in town and buy luxurious stuff, but don’t be poor.’”\n\nLagom has inspired several companies to manufacture skin collections, clothing, and furniture based on this notion of making life easier, more enjoyable and inexpensive. Swedish furniture store IKEA, for example, has created a project called “Live Lagom” to teach people how to reduce waste, save water, and live a healthier life. The famous H&M also sells Lagom around the world. Everybody can afford to buy their products, which are functional, stylish, and nice, but not too nice. Sam and Elliott Stocks, from England, published the lifestyle magazine Lagom. “Although neither of us are Swedes, we admire Swedish culture,” says Elliott. “The philosophy of Lagom is beautifully simple; it encourages everything in moderation.”",
+      "stem": "According to the passage, which is NOT one of the features of H&M's clothing？",
+      "options": [
+        "Affordable.",
+        "Expensive.",
+        "Fashionable.",
+        "Functional."
+      ],
+      "answer": "B",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 48,
+      "section": 2,
+      "type": "single",
+      "category": "閱讀測驗",
+      "groupId": "g46",
+      "passage": "Lagom is a new lifestyle that comes out of Sweden into our homes and our lives in the hope of helping us become healthy and live a sustainable life. The Swedish word is defined as “not too much, and not too little—just right.” This ethos of moderation has a great impact on Swedish people, who believe there should be a balance in everything they do, from working hours to how many slices of cake they eat, from how much sugar to take in one coffee to the portion sizes of dinner. Now people all over the world are interested in this living philosophy. Over the past six months, the BBC reports that search engine Google has seen a steady increase in the number of searches for the term Lagom and in the last three months, the word has been tweeted over 13,500 times.\n\nMy Swedish friend told me “asking a Swede about lagom is like asking a fish what water is. It’s part of our way of life. There’s an inner voice saying, ‘Don’t be too talkative, but don’t be too quiet or shy. Don’t build the biggest house in town and buy luxurious stuff, but don’t be poor.’”\n\nLagom has inspired several companies to manufacture skin collections, clothing, and furniture based on this notion of making life easier, more enjoyable and inexpensive. Swedish furniture store IKEA, for example, has created a project called “Live Lagom” to teach people how to reduce waste, save water, and live a healthier life. The famous H&M also sells Lagom around the world. Everybody can afford to buy their products, which are functional, stylish, and nice, but not too nice. Sam and Elliott Stocks, from England, published the lifestyle magazine Lagom. “Although neither of us are Swedes, we admire Swedish culture,” says Elliott. “The philosophy of Lagom is beautifully simple; it encourages everything in moderation.”",
+      "stem": "Which word is closest in meaning to the word “ethos” in the first paragraph？",
+      "options": [
+        "Process.",
+        "Spirit.",
+        "Failure.",
+        "Memory."
+      ],
+      "answer": "B",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 49,
+      "section": 2,
+      "type": "single",
+      "category": "閱讀測驗",
+      "groupId": "g46",
+      "passage": "Lagom is a new lifestyle that comes out of Sweden into our homes and our lives in the hope of helping us become healthy and live a sustainable life. The Swedish word is defined as “not too much, and not too little—just right.” This ethos of moderation has a great impact on Swedish people, who believe there should be a balance in everything they do, from working hours to how many slices of cake they eat, from how much sugar to take in one coffee to the portion sizes of dinner. Now people all over the world are interested in this living philosophy. Over the past six months, the BBC reports that search engine Google has seen a steady increase in the number of searches for the term Lagom and in the last three months, the word has been tweeted over 13,500 times.\n\nMy Swedish friend told me “asking a Swede about lagom is like asking a fish what water is. It’s part of our way of life. There’s an inner voice saying, ‘Don’t be too talkative, but don’t be too quiet or shy. Don’t build the biggest house in town and buy luxurious stuff, but don’t be poor.’”\n\nLagom has inspired several companies to manufacture skin collections, clothing, and furniture based on this notion of making life easier, more enjoyable and inexpensive. Swedish furniture store IKEA, for example, has created a project called “Live Lagom” to teach people how to reduce waste, save water, and live a healthier life. The famous H&M also sells Lagom around the world. Everybody can afford to buy their products, which are functional, stylish, and nice, but not too nice. Sam and Elliott Stocks, from England, published the lifestyle magazine Lagom. “Although neither of us are Swedes, we admire Swedish culture,” says Elliott. “The philosophy of Lagom is beautifully simple; it encourages everything in moderation.”",
+      "stem": "What does “asking a fish what water is” in the second paragraph imply？",
+      "options": [
+        "Swedes cannot live without lagom.",
+        "Lagom has a negative influence on Swedes.",
+        "A large part of Sweden is surrounded by the sea.",
+        "Swedes don't spend money on unnecessary things."
+      ],
+      "answer": "A",
+      "answerSource": "ANS",
+      "note": null
+    },
+    {
+      "no": 50,
+      "section": 2,
+      "type": "single",
+      "category": "閱讀測驗",
+      "groupId": "g46",
+      "passage": "Lagom is a new lifestyle that comes out of Sweden into our homes and our lives in the hope of helping us become healthy and live a sustainable life. The Swedish word is defined as “not too much, and not too little—just right.” This ethos of moderation has a great impact on Swedish people, who believe there should be a balance in everything they do, from working hours to how many slices of cake they eat, from how much sugar to take in one coffee to the portion sizes of dinner. Now people all over the world are interested in this living philosophy. Over the past six months, the BBC reports that search engine Google has seen a steady increase in the number of searches for the term Lagom and in the last three months, the word has been tweeted over 13,500 times.\n\nMy Swedish friend told me “asking a Swede about lagom is like asking a fish what water is. It’s part of our way of life. There’s an inner voice saying, ‘Don’t be too talkative, but don’t be too quiet or shy. Don’t build the biggest house in town and buy luxurious stuff, but don’t be poor.’”\n\nLagom has inspired several companies to manufacture skin collections, clothing, and furniture based on this notion of making life easier, more enjoyable and inexpensive. Swedish furniture store IKEA, for example, has created a project called “Live Lagom” to teach people how to reduce waste, save water, and live a healthier life. The famous H&M also sells Lagom around the world. Everybody can afford to buy their products, which are functional, stylish, and nice, but not too nice. Sam and Elliott Stocks, from England, published the lifestyle magazine Lagom. “Although neither of us are Swedes, we admire Swedish culture,” says Elliott. “The philosophy of Lagom is beautifully simple; it encourages everything in moderation.”",
+      "stem": "Which of the following statements is true about Lagom？",
+      "options": [
+        "It was created by the furniture store IKEA.",
+        "The word has not appeared on tweets until the last three months.",
+        "It encourages people to pursue both simplicity and quality.",
+        "It means that everyone should enjoy life without concern for the future."
+      ],
+      "answer": "C",
+      "answerSource": "ANS",
+      "note": null
+    }
+  ],
+  "skipped": []
+}
