@@ -98,7 +98,8 @@
     var pts = sec.pts;
     if (q.a === "ALL") return pts;
     if (!ans) return 0;
-    if (q.type === "single") return ans === q.a ? pts : 0;
+    // 單選若有「多個答案均給分」的更正（如 "BD"），選其中任一個都算對
+    if (q.type === "single") return ans.length === 1 && q.a.indexOf(ans) >= 0 ? pts : 0;
     var wrong = 0;
     for (var i = 0; i < q.o.length; i++) {
       var L = LETTERS[i];
@@ -241,7 +242,9 @@
 
     if (mode === "review") {
       var v = el("div", { class: "verdict" });
-      var correctText = q.a === "ALL" ? "本題一律給分" : "正確答案：" + q.a.split("").join("、");
+      var correctText = q.a === "ALL" ? "本題一律給分"
+        : (q.type === "single" && q.a.length > 1) ? "正確答案：" + q.a.split("").join(" 或 ") + "（更正答案，均給分）"
+        : "正確答案：" + q.a.split("").join("、");
       v.appendChild(el("b", { class: result.full ? "ok" : "bad", text: result.full ? "答對" : (result.score > 0 ? "部分得分" : (ans ? "答錯" : "未作答")) }));
       v.appendChild(document.createTextNode("　" + correctText + "　你的答案：" + (ans ? ans.split("").join("、") : "—") + "　得分 " + result.score + " / " + sec.pts));
       card.appendChild(v);
