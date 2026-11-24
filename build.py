@@ -65,6 +65,8 @@ def main():
                     "o": q["options"],
                     "a": q["answer"],
                 }
+                if q.get("alts"):
+                    item["alt"] = q["alts"]  # 更正答案：其他也給滿分的答案組合
                 if q.get("groupId"):
                     gid = f"{e['year']}-{q['groupId']}"
                     item["g"] = gid
